@@ -10,10 +10,10 @@
 
 ##  공부 계획 
 
-✔ 1단계: react 실습 환경 구축과 문법
-  2단계: funtion과 class 
-  3단계: redux
-  4단계: 도서 스터디 진행
+✔ 1단계: react 실습 환경 구축과 문법  
+  2단계: funtion과 class   
+  3단계: redux  
+  4단계: 도서 스터디 진행  
 
 
 
